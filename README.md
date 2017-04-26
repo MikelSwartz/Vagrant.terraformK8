@@ -21,6 +21,7 @@ For Linux, Mac, or Windows:
 7. ssh into the vagrant box   
 ```vagrant ssh```
 8. Go to the hands-on-with-kubernetes-workshop to continue with the demo. :)    
+```https://github.com/apprenda/hands-on-with-kubernetes-workshop```
 
 Host Version Contents
 ========
