@@ -28,4 +28,5 @@ fi
 echo "Cloning: hands-on-with-kubernetes-workshop by apprenda"
 git clone https://github.com/apprenda/hands-on-with-kubernetes-workshop.git
 echo "GO to https://github.com/apprenda/hands-on-with-kubernetes-workshop for more info."
+echo "'vagrant ssh' to ssh into the vagrant box"
 
