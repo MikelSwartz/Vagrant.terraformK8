@@ -6,21 +6,23 @@ Instructions
 Requires git and vagrant. Very easy! 
 
 For Linux, Mac, or Windows: 
-1. Install vagrant. (https://www.vagrantup.com/docs/installation/)   
+1. Install git.   
+```https://git-scm.com/book/en/v2/Getting-Started-Installing-Git```
+2. Install vagrant. (https://www.vagrantup.com/docs/installation/)   
 	-Use virtualbox as your provisioner.
-2. Create a project folder in your home directory.   
+3. Create a project folder in your home directory.   
 ```mkdir ~/projects```
-3. cd to your project folder.   
+4. cd to your project folder.   
 ```cd ~/projects```
-4. Do a git clone of this project.   
+5. Do a git clone of this project.   
 ```git clone https://github.com/MikelSwartz/Vagrant.terraformK8```   
-5. change directory to Vagrant.terraformK8   
+6. change directory to Vagrant.terraformK8   
 ```cd Vagrant.terraformK8```   
-6. Start the Vagrant box.   
+7. Start the Vagrant box.   
 ```vagrant up```
-7. ssh into the vagrant box   
+8. ssh into the vagrant box   
 ```vagrant ssh```
-8. Go to the hands-on-with-kubernetes-workshop to continue with the demo. :)    
+9. Go to the hands-on-with-kubernetes-workshop to continue with the demo. :)    
 ```https://github.com/apprenda/hands-on-with-kubernetes-workshop```
 
 Host Version Contents
